@@ -1,0 +1,7 @@
+name    'jcannon-sargrapho'
+version '1.0.0'
+source 'git://github.com/jasonc/puppet-sargrapho.git'
+author 'jcannon'
+summary 'A puppet module to install SarGraphO.'
+description 'A puppet module to install SarGraphO.'
+project_page 'https://github.com/jasonc/puppet-sargrapho'
